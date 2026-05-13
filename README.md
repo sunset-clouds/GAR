@@ -1,2 +1,2 @@
 # GAR
-GAR: Aligning Reconstruction with Generation
+GAR: Aligning Reconstruction with Generation repo
